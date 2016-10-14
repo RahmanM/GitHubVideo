@@ -7,3 +7,5 @@ new line added in github
 =======
 new line added to branch
 >>>>>>> refs/remotes/origin/features
+
+updated in github
